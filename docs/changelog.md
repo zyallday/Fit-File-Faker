@@ -5,6 +5,12 @@ All notable changes to FIT File Faker are documented here.
 This changelog is automatically generated from git commit messages using [git-cliff](https://git-cliff.org/).
 See our [release history](https://github.com/jat255/Fit-File-Faker/releases) on GitHub for downloadable releases.
 
+## [2.1.4](https://github.com/jat255/fit-file-faker/releases/tag/v2.1.4) - (2026-02-23)
+
+### Bug Fixes
+
+- properly handle FIT files with empty/invalid developer-defined fields ([#71](https://github.com/jat255/fit-file-faker/issues/71)) ([5dcde9b](https://github.com/jat255/Fit-File-Faker/commit/5dcde9b162b6e114bdef5ad069236ad59047cc26))
+
 ## [2.1.3](https://github.com/jat255/fit-file-faker/releases/tag/v2.1.3) - (2026-02-01)
 
 ### Documentation
